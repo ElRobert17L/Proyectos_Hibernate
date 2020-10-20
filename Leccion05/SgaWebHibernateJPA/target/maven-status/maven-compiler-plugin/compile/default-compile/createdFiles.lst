@@ -1,0 +1,13 @@
+mx\com\rlr\domain\Curso.class
+mx\com\rlr\dao\GenericDAO.class
+mx\com\rlr\domain\Asignacion.class
+mx\com\rlr\dao\DomicilioDAO.class
+mx\com\rlr\dao\CursoDAO.class
+mx\com\rlr\dao\AlumnoDAO.class
+mx\com\rlr\dao\ContactoDAO.class
+mx\com\rlr\test\testDAOs.class
+mx\com\rlr\dao\AsignacionDAO.class
+mx\com\rlr\domain\Alumno.class
+mx\com\rlr\domain\Contacto.class
+mx\com\rlr\domain\Domicilio.class
+mx\com\rlr\test\ciclovida\Estado1Persistido.class

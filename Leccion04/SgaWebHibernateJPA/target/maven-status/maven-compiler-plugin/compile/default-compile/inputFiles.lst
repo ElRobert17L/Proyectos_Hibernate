@@ -1,0 +1,12 @@
+D:\Hibernate\Leccion04\SgaWebHibernateJPA\src\main\java\mx\com\rlr\domain\Asignacion.java
+D:\Hibernate\Leccion04\SgaWebHibernateJPA\src\main\java\mx\com\rlr\domain\Contacto.java
+D:\Hibernate\Leccion04\SgaWebHibernateJPA\src\main\java\mx\com\rlr\domain\Domicilio.java
+D:\Hibernate\Leccion04\SgaWebHibernateJPA\src\main\java\mx\com\rlr\dao\AsignacionDAO.java
+D:\Hibernate\Leccion04\SgaWebHibernateJPA\src\main\java\mx\com\rlr\dao\DomicilioDAO.java
+D:\Hibernate\Leccion04\SgaWebHibernateJPA\src\main\java\mx\com\rlr\dao\GenericDAO.java
+D:\Hibernate\Leccion04\SgaWebHibernateJPA\src\main\java\mx\com\rlr\test\testDAOs.java
+D:\Hibernate\Leccion04\SgaWebHibernateJPA\src\main\java\mx\com\rlr\domain\Curso.java
+D:\Hibernate\Leccion04\SgaWebHibernateJPA\src\main\java\mx\com\rlr\dao\ContactoDAO.java
+D:\Hibernate\Leccion04\SgaWebHibernateJPA\src\main\java\mx\com\rlr\domain\Alumno.java
+D:\Hibernate\Leccion04\SgaWebHibernateJPA\src\main\java\mx\com\rlr\dao\AlumnoDAO.java
+D:\Hibernate\Leccion04\SgaWebHibernateJPA\src\main\java\mx\com\rlr\dao\CursoDAO.java

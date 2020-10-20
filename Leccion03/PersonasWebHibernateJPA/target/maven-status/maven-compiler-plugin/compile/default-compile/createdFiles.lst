@@ -1,0 +1,4 @@
+mx\com\rlr\domain\Persona.class
+mx\com\rlr\dao\PersonaDAO.class
+mx\com\rlr\web\ServletControlador.class
+mx\com\rlr\servicio\ServicioPersonas.class
